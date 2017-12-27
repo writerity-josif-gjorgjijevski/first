@@ -3,12 +3,18 @@ body{
 	background-color:gray;
 }
 .div-body{
-	width:90%;
+	width:96%;
 	height:100%;
 	margin:auto;
 	background-color:white;
 }
-.div-body-header-bottom{
+.div-body-header-top{
+	text-align:center;
+}.div-body-header-mid{
+	text-align:center;
+}.div-body-header-bottom{
 	background-image: url("downloads/bg2.jpg");
-	
+}
+.div-body-content{
+	text-align:center;
 }
