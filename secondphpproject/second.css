@@ -1,5 +1,13 @@
-@charset "UTF-8";
 
-div{
-	background-color:yellow;
+body{
+	background-color:gray;
+}
+.div-body{
+	width:90%;
+	height:100%;
+	margin:auto;
+	background-color:white;
+}
+.div-body-header-bottom{
+	background-image: url("downloads/bg2.jpg");
 }
